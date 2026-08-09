@@ -341,7 +341,7 @@ footer .foot-nav a:hover{ color:var(--gold); }
 footer address{ font-style:normal; font-size:0.86rem; line-height:1.9; color:rgba(255,255,255,0.7); }
 footer address a{ color:rgba(255,255,255,0.7); }
 footer address a:hover{ color:var(--gold); }
-.footer-bottom{ border-top:1px solid rgba(255,255,255,0.1); padding-top:26px; display:flex; justify-content:space-between; flex-wrap:wrap; gap:12px; font-size:0.72rem; color:rgba(255,255,255,0.35); }
+.footer-bottom{ border-top:1px solid rgba(255,255,255,0.1); padding-top:26px; display:flex; justify-content:center; flex-wrap:wrap; gap:12px 28px; font-size:0.72rem; color:rgba(255,255,255,0.35); text-align:center; }
 .footer-bottom a{ color:rgba(255,255,255,0.5); }
 .footer-bottom a:hover{ color:var(--gold); }
 @media (max-width:820px){ .footer-grid{ grid-template-columns:1fr; gap:36px; } }
