@@ -91,7 +91,9 @@
     var lbIndex = 0;
     function openLb(i){
       lbIndex = i;
-      lbImg.src = items[i].querySelector('img').getAttribute('src');
+      var img = items[i].querySelector('img');
+      lbImg.src = img.getAttribute('src');
+      lbImg.alt = img.getAttribute('alt') || '';
       lb.classList.add('open');
       document.body.style.overflow = 'hidden';
     }
@@ -101,7 +103,9 @@
     }
     function navLb(dir){
       lbIndex = (lbIndex + dir + items.length) % items.length;
-      lbImg.src = items[lbIndex].querySelector('img').getAttribute('src');
+      var img = items[lbIndex].querySelector('img');
+      lbImg.src = img.getAttribute('src');
+      lbImg.alt = img.getAttribute('alt') || '';
     }
     items.forEach(function(item, i){
       item.addEventListener('click', function(){ openLb(i); });
