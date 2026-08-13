@@ -1,19 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+        xmlns:xhtml="http://www.w3.org/1999/xhtml"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
     <loc>https://www.studioecocasamentos.com.br/</loc>
+    <lastmod>2026-08-12</lastmod>
     <xhtml:link rel="alternate" hreflang="pt-BR" href="https://www.studioecocasamentos.com.br/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.studioecocasamentos.com.br/en/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://www.studioecocasamentos.com.br/it/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://www.studioecocasamentos.com.br/"/>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://www.studioecocasamentos.com.br/images/casal-fonte-roma-destination-wedding.webp</image:loc>
+      <image:title>Fotografia fine art de casamento em Curitiba, Brasil e Europa - AQ Studio &amp; Co.</image:title>
+    </image:image>
   </url>
 
   <url>
     <loc>https://www.studioecocasamentos.com.br/fotografia-casamento-curitiba.html</loc>
+    <lastmod>2026-08-12</lastmod>
     <xhtml:link rel="alternate" hreflang="pt-BR" href="https://www.studioecocasamentos.com.br/fotografia-casamento-curitiba.html"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.studioecocasamentos.com.br/en/wedding-photographer-curitiba.html"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://www.studioecocasamentos.com.br/it/fotografo-matrimonio-curitiba.html"/>
@@ -24,6 +31,7 @@
 
   <url>
     <loc>https://www.studioecocasamentos.com.br/destination-wedding.html</loc>
+    <lastmod>2026-08-12</lastmod>
     <xhtml:link rel="alternate" hreflang="pt-BR" href="https://www.studioecocasamentos.com.br/destination-wedding.html"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.studioecocasamentos.com.br/en/destination-wedding.html"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://www.studioecocasamentos.com.br/it/destination-wedding.html"/>
@@ -34,18 +42,21 @@
 
   <url>
     <loc>https://www.studioecocasamentos.com.br/destination-wedding-italia.html</loc>
+    <lastmod>2026-08-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.85</priority>
   </url>
 
   <url>
     <loc>https://www.studioecocasamentos.com.br/destination-wedding-europa.html</loc>
+    <lastmod>2026-08-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://www.studioecocasamentos.com.br/sobre.html</loc>
+    <lastmod>2026-08-12</lastmod>
     <xhtml:link rel="alternate" hreflang="pt-BR" href="https://www.studioecocasamentos.com.br/sobre.html"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.studioecocasamentos.com.br/en/about.html"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://www.studioecocasamentos.com.br/it/chi-siamo.html"/>
@@ -56,46 +67,279 @@
 
   <url>
     <loc>https://www.studioecocasamentos.com.br/portfolio.html</loc>
+    <lastmod>2026-08-12</lastmod>
     <xhtml:link rel="alternate" hreflang="pt-BR" href="https://www.studioecocasamentos.com.br/portfolio.html"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.studioecocasamentos.com.br/en/portfolio.html"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://www.studioecocasamentos.com.br/it/portfolio.html"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://www.studioecocasamentos.com.br/portfolio.html"/>
     <changefreq>weekly</changefreq>
     <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://www.studioecocasamentos.com.br/images/ensaio-casal-roma-italia.webp</image:loc>
+      <image:title>Casal em ensaio de casamento em Roma</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.studioecocasamentos.com.br/images/noivos-fontana-pantheon-roma.webp</image:loc>
+      <image:title>Noivos na Fontana del Pantheon, Roma</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.studioecocasamentos.com.br/images/casal-preto-branco-roma.webp</image:loc>
+      <image:title>Casal em preto e branco em Roma</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.studioecocasamentos.com.br/images/noivos-pantheon-roma.webp</image:loc>
+      <image:title>Noivos em frente ao Pantheon, Roma</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.studioecocasamentos.com.br/images/casal-piazza-rotonda-roma.webp</image:loc>
+      <image:title>Casal em preto e branco em frente ao Pantheon</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.studioecocasamentos.com.br/images/noiva-coliseu-roma.webp</image:loc>
+      <image:title>Noiva em frente ao Coliseu, Roma</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.studioecocasamentos.com.br/images/casal-fonte-roma-destination-wedding.webp</image:loc>
+      <image:title>Casal junto à fonte em Roma</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.studioecocasamentos.com.br/images/noivos-brinde-champanhe.webp</image:loc>
+      <image:title>Noivos brindando com champanhe</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.studioecocasamentos.com.br/images/noivos-jardim-cerimonia-ar-livre.webp</image:loc>
+      <image:title>Noivos sorrindo em jardim ao entardecer</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.studioecocasamentos.com.br/images/casal-piramide-louvre-paris.webp</image:loc>
+      <image:title>Casal em frente à Pirâmide do Louvre, Paris</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.studioecocasamentos.com.br/images/noivos-maos-dadas-louvre-paris.webp</image:loc>
+      <image:title>Noivos de mãos dadas na Pirâmide do Louvre</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.studioecocasamentos.com.br/images/noivo-beijo-testa-noiva-paris.webp</image:loc>
+      <image:title>Noivo beijando a testa da noiva em Paris</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.studioecocasamentos.com.br/images/casal-piramide-louvre.webp</image:loc>
+      <image:title>Casal junto à Pirâmide do Louvre</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.studioecocasamentos.com.br/images/noiva-editorial-coliseu-roma.webp</image:loc>
+      <image:title>Noiva em terno branco com véu, Coliseu ao fundo</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.studioecocasamentos.com.br/images/casal-atravessando-rua-coliseu.webp</image:loc>
+      <image:title>Casal atravessando a rua em frente ao Coliseu</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.studioecocasamentos.com.br/images/noivos-abraco-coliseu-roma.webp</image:loc>
+      <image:title>Noivos se abraçando em frente ao Coliseu</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.studioecocasamentos.com.br/images/casal-coliseu-roma.webp</image:loc>
+      <image:title>Casal em frente ao Coliseu de Roma</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.studioecocasamentos.com.br/images/noivo-erguendo-noiva-coliseu.webp</image:loc>
+      <image:title>Noivo erguendo a noiva em frente ao Coliseu</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.studioecocasamentos.com.br/images/noivos-sorrindo-preto-branco-roma.webp</image:loc>
+      <image:title>Noivos sorrindo em close, preto e branco</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.studioecocasamentos.com.br/images/casal-sorrindo-veu-casamento.webp</image:loc>
+      <image:title>Casal sorrindo em close com véu</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.studioecocasamentos.com.br/images/casal-oculos-coliseu-roma.webp</image:loc>
+      <image:title>Casal de óculos escuros caminhando em frente ao Coliseu</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.studioecocasamentos.com.br/images/casal-maos-dadas-coliseu.webp</image:loc>
+      <image:title>Casal caminhando de mãos dadas com o Coliseu ao fundo</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.studioecocasamentos.com.br/images/casal-metro-roma.webp</image:loc>
+      <image:title>Casal posando perto do metrô de Roma</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.studioecocasamentos.com.br/images/portfolio-novas/noivos-buque-flores-jardim.webp</image:loc>
+      <image:title>Noivos testa a testa sob pérgola de madeira, com buquê de flores do campo</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.studioecocasamentos.com.br/images/portfolio-novas/noivos-abraco-jardim-flores.webp</image:loc>
+      <image:title>Noivos abraçados sob pérgola de madeira, com buquê de flores do campo</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.studioecocasamentos.com.br/images/portfolio-novas/noivos-lobby-hotel-buque.webp</image:loc>
+      <image:title>Noiva posando sob pérgola de madeira com buquê de flores</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.studioecocasamentos.com.br/images/portfolio-novas/noivos-sorrindo-lobby-hotel.webp</image:loc>
+      <image:title>Retrato de perto da noiva sorrindo, luz natural</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.studioecocasamentos.com.br/images/portfolio-novas/noiva-making-of-espelho-pb.webp</image:loc>
+      <image:title>Noivos se abraçando e sorrindo em espaço com estrutura de vidro</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.studioecocasamentos.com.br/images/portfolio-novas/buque-rosario-terco-flores.webp</image:loc>
+      <image:title>Noivos abraçados sob decoração floral em espaço envidraçado</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.studioecocasamentos.com.br/images/portfolio-novas/noiva-robe-noiva-janela.webp</image:loc>
+      <image:title>Noivos abraçados, noiva com vestido de renda e véu, segurando buquê colorido</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.studioecocasamentos.com.br/images/portfolio-novas/noiva-robe-varanda-jardim.webp</image:loc>
+      <image:title>Noiva sentada em fusca vintage branco, segurando buquê</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.studioecocasamentos.com.br/images/portfolio-novas/noivos-beijo-testa-jardim-flores.webp</image:loc>
+      <image:title>Noivos ao lado de fusca vintage branco</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.studioecocasamentos.com.br/images/portfolio-novas/noivos-abraco-flores-jardim-boho.webp</image:loc>
+      <image:title>Noivos ao lado de fusca vintage branco, jardim ao fundo</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.studioecocasamentos.com.br/images/portfolio-novas/noivos-beijo-cerimonia-ao-ar-livre.webp</image:loc>
+      <image:title>Noivos abraçados, noiva encostando a cabeça no ombro do noivo</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.studioecocasamentos.com.br/images/portfolio-novas/noivos-beijo-hotel-terno-preto.webp</image:loc>
+      <image:title>Noivos sorrindo durante a cerimônia sob decoração rústica de bambu</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.studioecocasamentos.com.br/images/portfolio-novas/noivos-lobby-hotel-buque-flores.webp</image:loc>
+      <image:title>Noivo beijando a mão da noiva durante a cerimônia sob pérgola de bambu</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.studioecocasamentos.com.br/images/portfolio-novas/noivos-casal-cerimonia-arco-flores.webp</image:loc>
+      <image:title>Noivos testa a testa ao entardecer, perto de trilhos de trem, com buquê branco</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.studioecocasamentos.com.br/images/portfolio-novas/noiva-making-of-preto-branco.webp</image:loc>
+      <image:title>Noivo beijando o rosto da noiva ao ar livre, com buquê de flores brancas</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.studioecocasamentos.com.br/images/portfolio-novas/buque-flores-terco-detalhe.webp</image:loc>
+      <image:title>Noiva caminhando por espaço decorado com flores penduradas, em preto e branco</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.studioecocasamentos.com.br/images/portfolio-novas/noiva-vestindo-robe-noiva.webp</image:loc>
+      <image:title>Noiva de costas, vestindo robe personalizado bordado &quot;Noiva&quot;</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.studioecocasamentos.com.br/images/portfolio-novas/noiva-varanda-natureza-robe.webp</image:loc>
+      <image:title>Detalhe do buquê de noiva com terço e pérolas</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.studioecocasamentos.com.br/images/portfolio-novas/noivos-beijo-jardim-sol.webp</image:loc>
+      <image:title>Noiva sorrindo durante a preparação, em preto e branco</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.studioecocasamentos.com.br/images/portfolio-novas/noivos-testa-jardim-flores-brancas.webp</image:loc>
+      <image:title>Noiva de robe personalizado na varanda, paisagem natural ao fundo</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.studioecocasamentos.com.br/images/portfolio-novas/noivos-maos-cerimonia-boho.webp</image:loc>
+      <image:title>Noivos em hall de hotel com arquitetura moderna e dramática</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.studioecocasamentos.com.br/images/portfolio-novas/noivos-sorriso-cerimonia-bambu.webp</image:loc>
+      <image:title>Noivos se beijando à noite, ele de smoking preto</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.studioecocasamentos.com.br/images/portfolio-novas/noiva-fotografia-preto-branco-cerimonia.webp</image:loc>
+      <image:title>Noivos sorridentes sob arco de flores durante a cerimônia ao ar livre</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.studioecocasamentos.com.br/images/portfolio-novas/noiva-vestido-renda-buque.webp</image:loc>
+      <image:title>Vestido de noiva pendurado em cabide personalizado com o nome &quot;Noiva&quot;</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.studioecocasamentos.com.br/images/portfolio-novas/noivos-abraco-fusca-vintage.webp</image:loc>
+      <image:title>Retrato em preto e branco da noiva com véu de renda cobrindo parte do rosto</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.studioecocasamentos.com.br/images/portfolio-novas/noivos-fusca-vintage-sorriso.webp</image:loc>
+      <image:title>Silhueta da noiva em preto e branco junto à porta de vidro</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.studioecocasamentos.com.br/images/portfolio-novas/noiva-fusca-vintage-buque.webp</image:loc>
+      <image:title>Casal se beijando em mirante à beira-mar, com penhascos ao fundo</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.studioecocasamentos.com.br/images/portfolio-novas/noivos-testa-fusca-vintage.webp</image:loc>
+      <image:title>Detalhe do vestido sendo fechado nas costas da noiva</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.studioecocasamentos.com.br/images/portfolio-novas/noiva-vestido-renda-jardim.webp</image:loc>
+      <image:title>Noiva de robe branco antes de vestir o vestido</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.studioecocasamentos.com.br/images/portfolio-novas/noivos-jardim-buque-abraco.webp</image:loc>
+      <image:title>Retrato da noiva em luz dourada desfocada</image:title>
+    </image:image>
   </url>
 
   <url>
     <loc>https://www.studioecocasamentos.com.br/blog.html</loc>
+    <lastmod>2026-08-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.75</priority>
   </url>
 
   <url>
     <loc>https://www.studioecocasamentos.com.br/blog/fotografo-casamento-curitiba-guia-completo.html</loc>
+    <lastmod>2026-08-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.studioecocasamentos.com.br/blog/quanto-custa-fotografo-casamento-curitiba.html</loc>
+    <lastmod>2026-08-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.studioecocasamentos.com.br/blog/destination-wedding-italia-como-funciona.html</loc>
+    <lastmod>2026-08-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.studioecocasamentos.com.br/blog/melhores-locais-ensaio-pre-wedding-curitiba.html</loc>
+    <lastmod>2026-08-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.studioecocasamentos.com.br/blog/elopement-wedding-curitiba-o-que-e.html</loc>
+    <lastmod>2026-08-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.studioecocasamentos.com.br/fornecedores.html</loc>
+    <lastmod>2026-08-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
 
   <url>
     <loc>https://www.studioecocasamentos.com.br/contato.html</loc>
+    <lastmod>2026-08-12</lastmod>
     <xhtml:link rel="alternate" hreflang="pt-BR" href="https://www.studioecocasamentos.com.br/contato.html"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.studioecocasamentos.com.br/en/contact.html"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://www.studioecocasamentos.com.br/it/contatti.html"/>
@@ -107,6 +351,7 @@
   <!-- English -->
   <url>
     <loc>https://www.studioecocasamentos.com.br/en/</loc>
+    <lastmod>2026-08-12</lastmod>
     <xhtml:link rel="alternate" hreflang="pt-BR" href="https://www.studioecocasamentos.com.br/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.studioecocasamentos.com.br/en/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://www.studioecocasamentos.com.br/it/"/>
@@ -116,6 +361,7 @@
   </url>
   <url>
     <loc>https://www.studioecocasamentos.com.br/en/wedding-photographer-curitiba.html</loc>
+    <lastmod>2026-08-12</lastmod>
     <xhtml:link rel="alternate" hreflang="pt-BR" href="https://www.studioecocasamentos.com.br/fotografia-casamento-curitiba.html"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.studioecocasamentos.com.br/en/wedding-photographer-curitiba.html"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://www.studioecocasamentos.com.br/it/fotografo-matrimonio-curitiba.html"/>
@@ -124,6 +370,7 @@
   </url>
   <url>
     <loc>https://www.studioecocasamentos.com.br/en/destination-wedding.html</loc>
+    <lastmod>2026-08-12</lastmod>
     <xhtml:link rel="alternate" hreflang="pt-BR" href="https://www.studioecocasamentos.com.br/destination-wedding.html"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.studioecocasamentos.com.br/en/destination-wedding.html"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://www.studioecocasamentos.com.br/it/destination-wedding.html"/>
@@ -132,6 +379,7 @@
   </url>
   <url>
     <loc>https://www.studioecocasamentos.com.br/en/about.html</loc>
+    <lastmod>2026-08-12</lastmod>
     <xhtml:link rel="alternate" hreflang="pt-BR" href="https://www.studioecocasamentos.com.br/sobre.html"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.studioecocasamentos.com.br/en/about.html"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://www.studioecocasamentos.com.br/it/chi-siamo.html"/>
@@ -140,6 +388,7 @@
   </url>
   <url>
     <loc>https://www.studioecocasamentos.com.br/en/portfolio.html</loc>
+    <lastmod>2026-08-12</lastmod>
     <xhtml:link rel="alternate" hreflang="pt-BR" href="https://www.studioecocasamentos.com.br/portfolio.html"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.studioecocasamentos.com.br/en/portfolio.html"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://www.studioecocasamentos.com.br/it/portfolio.html"/>
@@ -148,6 +397,7 @@
   </url>
   <url>
     <loc>https://www.studioecocasamentos.com.br/en/contact.html</loc>
+    <lastmod>2026-08-12</lastmod>
     <xhtml:link rel="alternate" hreflang="pt-BR" href="https://www.studioecocasamentos.com.br/contato.html"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.studioecocasamentos.com.br/en/contact.html"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://www.studioecocasamentos.com.br/it/contatti.html"/>
@@ -158,6 +408,7 @@
   <!-- Italiano -->
   <url>
     <loc>https://www.studioecocasamentos.com.br/it/</loc>
+    <lastmod>2026-08-12</lastmod>
     <xhtml:link rel="alternate" hreflang="pt-BR" href="https://www.studioecocasamentos.com.br/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.studioecocasamentos.com.br/en/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://www.studioecocasamentos.com.br/it/"/>
@@ -166,6 +417,7 @@
   </url>
   <url>
     <loc>https://www.studioecocasamentos.com.br/it/fotografo-matrimonio-curitiba.html</loc>
+    <lastmod>2026-08-12</lastmod>
     <xhtml:link rel="alternate" hreflang="pt-BR" href="https://www.studioecocasamentos.com.br/fotografia-casamento-curitiba.html"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.studioecocasamentos.com.br/en/wedding-photographer-curitiba.html"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://www.studioecocasamentos.com.br/it/fotografo-matrimonio-curitiba.html"/>
@@ -174,6 +426,7 @@
   </url>
   <url>
     <loc>https://www.studioecocasamentos.com.br/it/destination-wedding.html</loc>
+    <lastmod>2026-08-12</lastmod>
     <xhtml:link rel="alternate" hreflang="pt-BR" href="https://www.studioecocasamentos.com.br/destination-wedding.html"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.studioecocasamentos.com.br/en/destination-wedding.html"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://www.studioecocasamentos.com.br/it/destination-wedding.html"/>
@@ -182,6 +435,7 @@
   </url>
   <url>
     <loc>https://www.studioecocasamentos.com.br/it/chi-siamo.html</loc>
+    <lastmod>2026-08-12</lastmod>
     <xhtml:link rel="alternate" hreflang="pt-BR" href="https://www.studioecocasamentos.com.br/sobre.html"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.studioecocasamentos.com.br/en/about.html"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://www.studioecocasamentos.com.br/it/chi-siamo.html"/>
@@ -190,6 +444,7 @@
   </url>
   <url>
     <loc>https://www.studioecocasamentos.com.br/it/portfolio.html</loc>
+    <lastmod>2026-08-12</lastmod>
     <xhtml:link rel="alternate" hreflang="pt-BR" href="https://www.studioecocasamentos.com.br/portfolio.html"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.studioecocasamentos.com.br/en/portfolio.html"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://www.studioecocasamentos.com.br/it/portfolio.html"/>
@@ -198,6 +453,7 @@
   </url>
   <url>
     <loc>https://www.studioecocasamentos.com.br/it/contatti.html</loc>
+    <lastmod>2026-08-12</lastmod>
     <xhtml:link rel="alternate" hreflang="pt-BR" href="https://www.studioecocasamentos.com.br/contato.html"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.studioecocasamentos.com.br/en/contact.html"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://www.studioecocasamentos.com.br/it/contatti.html"/>
